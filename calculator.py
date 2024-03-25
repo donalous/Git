@@ -13,3 +13,5 @@ class Calculator():
         if self.a == 0 or self.b == 0:
             return 0
         return abs(self.a * self.b) // self.gcd()
+
+print (5)
